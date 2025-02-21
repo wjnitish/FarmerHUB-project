@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FarmerHUb-project/static/css/main.1226d13b.css",
+    "main.js": "/FarmerHUb-project/static/js/main.5de90ba2.js",
+    "static/js/453.62a865da.chunk.js": "/FarmerHUb-project/static/js/453.62a865da.chunk.js",
+    "index.html": "/FarmerHUb-project/index.html",
+    "main.1226d13b.css.map": "/FarmerHUb-project/static/css/main.1226d13b.css.map",
+    "main.5de90ba2.js.map": "/FarmerHUb-project/static/js/main.5de90ba2.js.map",
+    "453.62a865da.chunk.js.map": "/FarmerHUb-project/static/js/453.62a865da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1226d13b.css",
+    "static/js/main.5de90ba2.js"
+  ]
+}
